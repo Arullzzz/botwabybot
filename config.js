@@ -1,7 +1,7 @@
 global.hl = '.'   // prefix hl bot
 
-global.owner = ['6281649175378','6281649175378']
-global.mods = ['6281649175378']
+global.owner = ['6285822347348','6285822347348']
+global.mods = ['6285822347348']
 global.APIs = {
   nrtm: 'https://nurutomo.herokuapp.com',
   xteam: 'https://api.xteam.xyz',
@@ -29,14 +29,14 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.packname = 'SH鑫'
-global.author = 'KAPTEN'
+global.packname = 'Arull鑫'
+global.author = 'ArullBotz'
 
 global.wait = '_Sedang diproses . . ._'
 global.error = '_Fitur Error !_'
 global.ltm = '❏ Instagram*\nhttps://instagram.com/azkan_e'
 
-// global.multiplier = 69 // The higher, The harder levelup
+// global.multiplier = 999 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
